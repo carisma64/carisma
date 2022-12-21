@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repository.carisma" name="[COLOR skyblue]Carisma Repository[/COLOR]" version="1.0" provider-name="Carisma">
-    <extension point="xbmc.addon.repository" name="[COLOR skyblue]Carisma Repository[/COLOR]">
+<addon id="repository.carisma" name="[COLOR skyblue]Carisma Media Repository[/COLOR]" version="1.0" provider-name="Carisma">
+    <extension point="xbmc.addon.repository" name="[COLOR skyblue]Carisma Media Repository[/COLOR]">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/carisma64/repository.carisma/master/repo/zips/addons.xml</info>
             <checksum>https://raw.githubusercontent.com/carisma64/repository.carisma/master/repo/zips/addons.xml.md5</checksum>
@@ -8,8 +8,8 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>Unofficial Addons for Kodi</summary>
-        <description>Carisma Kodi Repository</description>
+        <summary>Unofficial Addons for Streaming</summary>
+        <description>Carisma Media Repository</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
         <assets>
